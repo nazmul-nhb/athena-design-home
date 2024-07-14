@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
-        athena: '#0db9dd',
+        athena: '#0d042e',
       },
       fontFamily: {
         yesevaOne: '"Yeseva One", serif;',

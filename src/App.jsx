@@ -1,6 +1,7 @@
 import toast from "react-hot-toast"
+import Newsletter from "./components/Newsletter"
 
-function App() {
+const App = () => {
 
   return (
     <>
@@ -14,7 +15,8 @@ function App() {
               color: '#fff',
             },
           })}>Click to Toast</button>
-     </div>
+      </div>
+      <Newsletter />
     </>
   )
 }
