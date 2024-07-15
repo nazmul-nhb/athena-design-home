@@ -3,3 +3,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* newsletter email input field */
+.newsletter {
+    box-shadow: 8px 8px 28px 16px #f1f6f4;
+}

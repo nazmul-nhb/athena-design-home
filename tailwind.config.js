@@ -9,6 +9,9 @@ export default {
       colors: {
         athena: '#0d042e',
       },
+      backgroundImage: {
+        athenaBG: 'linear-gradient(to right, #1ad5bc, #07aee9)',
+      },
       fontFamily: {
         yesevaOne: '"Yeseva One", serif;',
         montserrat: '"Montserrat", sans- serif;',
